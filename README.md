@@ -1,30 +1,9 @@
-# text2img-ai-tutorial
-
-## レベル1 
-
-アプリを使って画像生成AIを使ってみる．(mac版)  
-[Diffusion Bee](https://diffusionbee.com/)の紹介．  
-
-## レベル2
-
-webホスティングサービスを使って画像生成AIを使ってみる．  
-[Replicate](https://replicate.com/)の紹介．　　
-
-## レベル3
-
-Google colabを使って画像生成を行なってみる．  
-[Google colab](https://colab.research.google.com/drive/1SXo60sp_I2va2PXTz25D3IpUtOdFY9jo?usp=sharing)を使ってhugging-faceを使って画像生成を行う．  
-
-## レベル4
-
-AICサーバー(もし使っても大丈夫そうであれば)を使って画像生成を行う．  
-sshの設定から環境設定，Stable diffusionのダウンロードまで含めて解説する．
 # 画像生成AIチュートリアルシラバス
 
 ## 初級編
 
 ### Macアプリを使って画像生成AIを体験
-- Diffusion Beeの紹介: 画像生成AIアプリの概要と特徴
+- [Diffusion Bee](https://diffusionbee.com/)の紹介: 画像生成AIアプリの概要と特徴
 - インストール方法: ソフトウェアのダウンロードとインストール手順
 - 画像生成の実演: キーワード入力から画像生成までの手順
 - 初級編のまとめ: 一般ユーザー向けの手軽さと簡単な操作方法
@@ -32,7 +11,7 @@ sshの設定から環境設定，Stable diffusionのダウンロードまで含�
 ## 中級編
 
 ###  Webホスティングサービスで画像生成AIを利用
-- Replicateの紹介: Webホスティングサービスの概要と特徴
+- [Replicate](https://replicate.com/)の紹介: Webホスティングサービスの概要と特徴
 - サインアップ方法: アカウント作成手順
 - 画像生成の実演: キーワード入力から画像生成までの手順
 - カスタマイズ方法: オプションやパラメータの調整方法
@@ -41,7 +20,7 @@ sshの設定から環境設定，Stable diffusionのダウンロードまで含�
 ## 上級編
 
 ###  Google Colabで画像生成を試す
-- Google Colabの紹介: クラウド上のJupyter Notebook環境の概要
+- [Google colab](https://colab.research.google.com/drive/1SXo60sp_I2va2PXTz25D3IpUtOdFY9jo?usp=sharing)の紹介: クラウド上のJupyter Notebook環境の概要
 - 事前準備: Googleアカウントの作成とColabへのアクセス
 - hugging-faceの紹介: 画像生成AIライブラリの概要
 - コードの解説: 各ステップごとの説明と実行方法
@@ -57,4 +36,4 @@ sshの設定から環境設定，Stable diffusionのダウンロードまで含�
 - Stable diffusionの紹介: 高度な画像生成AIモデルの概要
 - ダウンロードと設定: Stable diffusionの入手と設定方法
 - 画像生成の実演: キーワード入力から画像生成までの手順
-- マスターエディションのまとめ: 専門性が高く、最高品質の画像生成が可能
+- マスターエディションのまとめ: 専門性が高く、多くの用途に対応した画像生成が可能
