@@ -19,7 +19,7 @@
 
 ## 上級編
 
-###  Google Colabで画像生成を試す
+###  Google Colabで画像生成を行う
 - [Google colab](https://colab.research.google.com/drive/1SXo60sp_I2va2PXTz25D3IpUtOdFY9jo?usp=sharing)の紹介: クラウド上のJupyter Notebook環境の概要
 - 事前準備: Googleアカウントの作成とColabへのアクセス
 - hugging-faceの紹介: 画像生成AIライブラリの概要
